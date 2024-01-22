@@ -1,0 +1,11 @@
+.root{
+    --Orange:orange;
+}
+
+.WarnaOrange{
+    color: var(Orange);
+}
+
+#navbarNav a:hover{
+    color: orangered;
+}
